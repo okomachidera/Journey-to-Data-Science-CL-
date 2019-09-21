@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Okoma Chidera
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of Data Science in Computational Linguistics 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of British Columbia 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a young Nigerian gal curious about Data and language 
 
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Language 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - Computational Linguistics 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
